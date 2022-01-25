@@ -1,7 +1,10 @@
+import React from 'react';
+import Add from './components/add';
 
-
-function App() {
- 
-}
+const App = () => (
+  <div>
+    <Add />
+  </div>
+);
 
 export default App;
